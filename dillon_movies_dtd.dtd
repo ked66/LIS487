@@ -1,0 +1,12 @@
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (title+,year,genre*,director+,cast*,awards*)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title language CDATA #REQUIRED>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT cast (actor+)>
+<!ELEMENT actor (name+,role+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
+<!ATTLIST role type (lead|supporting|featured) #IMPLIED>

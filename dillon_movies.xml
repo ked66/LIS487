@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies_dtd.dtd">
+
+<movies>
+<movie>
+  <title language = "eng">The Princess Bride</title>
+  <year>1987</year>
+  <genre>fantasy</genre>
+  <director>Rob Reiner</director>
+  <cast>
+    <actor>
+      <name>Cary Elwes</name>
+      <role type = "lead">Westley/Dread Pirate Roberts/The Man in Black</role>
+    </actor>
+    <actor>
+      <name>Robin Wright</name>
+      <role type = "lead">Buttercup/The Princess Bride</role>
+    </actor>
+    <actor>
+      <name>Mel Smith</name>
+      <role type = "featured">The Albino</role>
+    </actor>
+  </cast>
+</movie>
+
+<movie>
+  <title language = "eng">Beauty and the Beast</title>
+  <title language = "fra">La Belle et la Bête</title>
+  <year>1991</year>
+  <genre>animated</genre>
+  <director>Gary Trousdale</director>
+  <director>Kirk Wise</director>
+  <cast>
+    <actor>
+      <name>Paige O'Hara</name>
+      <role type = "lead">Belle</role>
+    </actor>
+    <actor>
+      <name>Richard White</name>
+      <role type = "supporting">Gaston</role>
+    </actor>
+    <actor>
+      <name>Angela Lansbury</name>
+      <role type = "supporting">Mrs. Potts</role>
+    </actor>
+  </cast>
+</movie>
+
+<movie>
+  <title language = "">Hidden Figures</title>
+  <year>2016</year>
+  <genre>drama</genre>
+  <director>Theodore Melfi</director>
+  <cast>
+    <actor>
+      <name>Jaraji P. Henson</name>
+      <role type = "lead">Katherine Goble Johnson</role>
+    </actor>
+    <actor>
+      <name>Octavia Spencer</name>
+      <role type = "lead">Dorothy Vaughan</role>
+    </actor>
+    <actor>
+      <name>Janelle Monáe</name>
+      <role type = "lead">Mary Jackson</role>
+    </actor>
+  </cast>
+</movie>
+
+<movie>
+  <title language = "eng">West Side Story</title>
+  <year>2021</year>
+  <genre>musical</genre>
+  <director>Steven Spielberg</director>
+  <cast>
+    <actor>
+      <name>Rachel Zegler</name>
+      <role type = "lead">Maria</role>
+    </actor>
+    <actor>
+      <name>Ariana DeBose</name>
+      <role type = "supporting">Anita</role>
+    </actor>
+    <actor>
+      <name>Mike Faist</name>
+      <role type = "supporting">Riff</role>
+    </actor>
+  </cast>
+</movie>
+
+<movie>
+  <title language = "eng">Doctor Zhivago</title>
+  <year>1965</year>
+  <genre>romance</genre>
+  <director>David Lean</director>
+  <cast>
+    <actor>
+      <name>Omar Sharif</name>
+      <role type = "lead">Yuri Andreyevich Zhivago</role>
+    </actor>
+    <actor>
+      <name>Julie Christie</name>
+      <role type = "lead">Larissa Ameliava "Lara" Antipova</role>
+    </actor>
+  </cast>
+</movie>
+</movies>
